@@ -1,6 +1,7 @@
 Version: 2019
 
 First commmit - Body Designer changes 
+New 2020 model LEX
 
 //Section
 Interior design
